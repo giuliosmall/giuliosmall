@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Giulio Piccolo,
 
-A digital economist passionate about Data Science :bar_chart:. I like solving business problems with data science solutions, automating things, exploring problems and improving efficiency and performance.
+A digital economist passionate about 🔌 Energy & Data Science :bar_chart:. I like solving business problems with data science solutions, automating things, exploring problems and improving efficiency and performance.
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
