@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Giulio Piccolo,
+### Hi there, I'm Giulio Piccolo <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 A digital economist passionate about 🔌 Energy & Data Science :bar_chart:. I like solving business problems with data science solutions, automating things, exploring problems and improving efficiency and performance.
 
