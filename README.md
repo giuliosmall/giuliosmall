@@ -1,6 +1,6 @@
 ### Hi there, I'm Giulio Piccolo <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-A digital economist passionate about Data Science & Advanced Analytics :bar_chart:. I love solving business problems with data science solutions, automating things, exploring problems and improving efficiency and performance.
+A digital economist passionate about Data Science, Advanced Analytics and Sports 🏀 🏈 ⚽️  :bar_chart:. I love solving business problems with data science solutions, automating things, exploring problems and improving efficiency and performance.
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
