@@ -26,7 +26,7 @@ A digital economist passionate about Data Science, Advanced Analytics and Sports
 </p>
 <hr \>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>A problem can be solved in a 100 different ways and there's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>
