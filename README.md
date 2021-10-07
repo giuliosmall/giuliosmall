@@ -11,11 +11,11 @@ A digital economist passionate about Data Science, Advanced Analytics and Sports
 
 ### My skills include
 
-- 🐍 Python
-- 🧠 R
-- 📓 Jupyer Notebook
-- 🤓 Statistics
-- 🖥️ Machine Learning
+- 🐍  Python
+- 🧠  R
+- 📓  Jupyer Notebook
+- 🤓  Statistics
+- 🖥️  Machine Learning
     
   Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
