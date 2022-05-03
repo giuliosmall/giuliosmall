@@ -12,7 +12,7 @@ A digital economist passionate about Data Science, Advanced Analytics and Sports
 ### My skills include
 
 - 🐍  Python
-- 🧠  R
+- 🧠  SQL
 - 📓  Jupyer Notebook
 - 🤓  Statistics
 - 🖥️  Machine Learning
