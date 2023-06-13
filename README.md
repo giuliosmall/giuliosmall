@@ -11,11 +11,14 @@ An Analytics Engineer passionated about Data Engineering, Advanced Analytics and
 
 ### My skills include
 
-- 🐍  Python
-- 🧠  SQL
-- 📓  Jupyer Notebook
-- 🤓  Statistics
-- 🖥️  Machine Learning
+- Python
+- SQL
+- dbt    
+- Airflow
+- AWS & GCP
+- git/github
+- CLI scripting
+- Data visualization: Tableau, Superset, Looker
     
   Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
