@@ -20,7 +20,7 @@ An Analytics Engineer passionated about Data Engineering, Advanced Analytics and
 - CLI scripting
 - Data visualization: Tableau, Superset, Looker
     
-  Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
+Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
 <br>
 <p align="center">
