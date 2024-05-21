@@ -1,13 +1,12 @@
 ### Hi there, I'm Giulio Piccolo <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-An Analytics Engineer passionated about Data Engineering, Advanced Analytics and Sports 🏀 🏈 ⚽️  :bar_chart:. I love solving business problems through data solutions, automating things, exploring problems and improving efficiency and performance.
+A Data Engineer passionated about Data Engineering, Advanced Analytics and Sports 🏀 🏈 ⚽️  :bar_chart:. I love solving business problems through data solutions, automating things and improving efficiency and performance.
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on Covid-19 Reddit Sentiment Analysis
+- 🔭 I’m currently working as Lead Data Engineer at Road, a scale-up operating at the intersection of fintech and energytech.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about sports 🏃 or anything that interests you.
-- 🌱 My accademic background includes a Bsc. in Sport Sciences and a Bsc. in Digital Management
 
 ### My skills include
 
@@ -16,6 +15,7 @@ An Analytics Engineer passionated about Data Engineering, Advanced Analytics and
 - dbt    
 - Airflow
 - AWS & GCP
+- Distributed computing
 - git/github
 - CLI scripting
 - Data visualization: Tableau, Superset, Looker
