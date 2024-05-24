@@ -12,7 +12,8 @@ A Data Engineer passionated about Data Engineering, Advanced Analytics and Sport
 
 - Python
 - SQL
-- dbt    
+- dbt
+- Spark    
 - Airflow
 - AWS & GCP
 - Distributed computing
